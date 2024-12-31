@@ -1,0 +1,11 @@
+[FORMAT]
+good-names=x,y,w,h,d
+
+[MESSAGES CONTROL]
+disable=missing-module-docstring,missing-class-docstring,missing-function-docstring,too-many-locals,too-many-branches,too-many-statements,non-ascii-name,non-ascii-module-import
+
+[TYPECHECK]
+ignored-classes=cv2,BitmapFormat
+
+[MASTER]
+init-hook='import sys; sys.path.append("./lib")'

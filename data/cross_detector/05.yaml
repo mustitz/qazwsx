@@ -1,0 +1,6 @@
+name: web-cross
+img: web.png
+result: ok
+minprob: 0.8
+center: [128, 40]
+sides: [15, 15]

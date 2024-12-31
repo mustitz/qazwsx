@@ -1,0 +1,6 @@
+name: chrome-cross
+img: chrome.png
+result: ok
+minprob: 0.8
+center: [160, 15]
+sides: [10, 10]

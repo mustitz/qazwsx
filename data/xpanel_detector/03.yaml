@@ -1,0 +1,7 @@
+name: details-popup
+img: details-popup.png
+result: ok
+point: [1814, 989]
+minprob: 0.8
+crossrect: [160, 15]
+sides: [10, 10]

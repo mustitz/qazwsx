@@ -1,0 +1,6 @@
+name: win-chrome-cross
+img: win-chrome.png
+result: ok
+minprob: 0.8
+center: [187, 20]
+sides: [10, 10]

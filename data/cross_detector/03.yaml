@@ -1,0 +1,6 @@
+name: ubuntu-gui-cross
+img: ubuntu.png
+result: ok
+minprob: 0.8
+center: [193, 19]
+sides: [8, 8]

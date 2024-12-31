@@ -1,0 +1,6 @@
+name: brave-popup-cross
+img: brave-popup.png
+result: ok
+minprob: 0.8
+center: [136, 36]
+sides: [10, 10]
